@@ -48,6 +48,12 @@ Contributions welcome!
 - Full-body High-resolution Anime Generation with Progressive Structure-conditional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1809.01890v1) (September 6 2018)
 - StyleGAN trained on Danbooru2018 dataset [[very detailed description of everything]](https://www.gwern.net/Faces)
 
+-animegan https://github.com/TachibanaYoshino/AnimeGAN
+
+-cartoonGAN tensorflow https://github.com/mnicnc404/CartoonGan-tensorflow
+
+-cartoonGAN 2020 paper https://github.com/SystemErrorWang/CartoonGAN
+
 ## Anime Image-to-Image Translation
 - Improving Shape Deformation in Unsupervised Image-to-Image Translation [[arXiv]](https://arxiv.org/abs/1808.04325) (August 13 2018)
 - Landmark Assisted CycleGAN for Cartoon Face Generation [[arXiv]](https://arxiv.org/abs/1907.01424v1) (July 2 2019)
