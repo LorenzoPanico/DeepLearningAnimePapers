@@ -56,6 +56,12 @@ Contributions welcome!
 
 - ganilla https://github.com/giddyyupp/ganilla
 
+alternative: 
+
+(de-noise) https://github.com/yeataro/TD-Anisotropic-Kuwahara
+
+(edges) Flow Based Image Abstraction https://github.com/vishwajeet97/image_abstraction
+
 ## Anime Image-to-Image Translation
 - Improving Shape Deformation in Unsupervised Image-to-Image Translation [[arXiv]](https://arxiv.org/abs/1808.04325) (August 13 2018)
 - Landmark Assisted CycleGAN for Cartoon Face Generation [[arXiv]](https://arxiv.org/abs/1907.01424v1) (July 2 2019)
